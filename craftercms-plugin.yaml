@@ -1,0 +1,54 @@
+# This file describes a plugin for use in CrafterCMS
+
+# The version of the format for this file
+descriptorVersion: 2
+
+# Describe the plugin
+plugin:
+  type: blueprint
+  id: org.craftercms.blueprint.videoCenter
+  name: Video Center
+  tags:
+    - blueprint
+    - video center
+  version:
+    major: 2
+    minor: 0
+    patch: 34
+  description: |
+    Video Center webapp built with React atop CrafterCMS that is backed by YouTube, AWS Media Service, or Box.
+  website:
+    name: Video Center
+    url: https://github.com/craftercms/video-center-blueprint
+  media:
+    screenshots:
+      - title: Home page
+        description: Screenshot of the home page
+        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc1.png
+      - title: Featured videos page
+        description: Screenshot of the featured videos page
+        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc2.png
+      - title: Player page
+        description: Screenshot of the player page
+        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc3.png
+      - title: Search page
+        description: Screenshot of the search page
+        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc4.png
+  developer:
+    company:
+      name: CrafterCMS
+      email: info@craftercms.com
+      url: https://craftercms.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  crafterCmsVersions:
+    - major: 4
+      minor: 0
+      patch: 1
+    - major: 4
+      minor: 0
+      patch: 2
+  crafterCmsEditions:
+    - community
+    - enterprise

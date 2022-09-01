@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2018-2022 Crafter Software Corporation. All Rights Reserved.
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+<component>
+	<content-type>/component/component-channel</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1194</objectGroupId>
+	<objectId>11945997-d8c6-b053-bd0f-cbe4734e8d14</objectId>
+	<file-name>computer-science.xml</file-name>
+	<folder-name/>
+	<internal-name>Computer Science</internal-name>
+	<createdDate>2018-05-25T19:34:08.558Z</createdDate>
+	<createdDate_dt>2018-05-25T19:34:08.558Z</createdDate_dt>
+	<lastModifiedDate>2019-01-23T16:19:10.832Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-01-23T16:19:10.832Z</lastModifiedDate_dt>
+	<description_s>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</description_s>
+	<heroImage_s>/static-assets/images/channels/11945997-d8c6-b053-bd0f-cbe4734e8d14/computer-science.jpg</heroImage_s>
+	<thumbnailImage_s>/static-assets/images/channels/11945997-d8c6-b053-bd0f-cbe4734e8d14/computer-science-thumbnail.jpg</thumbnailImage_s>
+	<featured_b>true</featured_b>
+	<tags_o item-list="true">	<item>	<value_s>computers</value_s>
+	</item>	<item>	<value_s>science</value_s>
+	</item>	<item>	<value_s>programming</value_s>
+	</item>	<item>	<value_s>networks</value_s>
+	</item>	<item>	<value_s>information</value_s>
+	</item>	<item>	<value_s>engineering</value_s>
+	</item></tags_o>
+	<maxVideosDisplay_i>6</maxVideosDisplay_i>
+	<maxChannelsDisplay_i>3</maxChannelsDisplay_i>
+	<channelKey_s>computer-science</channelKey_s>
+</component>
